@@ -1,0 +1,9 @@
+Question 1: Write a 3-5 sentence explanation on your thought process and why you ranked the results the
+way you did
+
+I chose to implement a scoring function into my code to be added as an extra column. This method has a number of advantages, one of which is that weights can be assigned to various factors so that the model can be changed as needed. I did my best guess for what weights could be worth - basically my thought process is that businesses with longer, better track records and more complete contact info are more likely to be sold on finding more clients. I have a breakdown of each factor in the calculate_saleability_score function in my code if you are interested in a more in depth explanation for each attribute used. 
+
+Questions 2: Write a 3-5 sentence explanation for the following question: If you came across a website where
+there were no phone numbers on the company profiles, what alternative methods would you
+
+If there were no phone numbers available, I would probably use another site to cross reference the name of the business, to see if I could find the phone number elsewhere. For example, if we were scraping the bbb.org page and the phone number wasn't available but the business name was, I could add a scrape step to do a goodgle search, cross-referenced with another piece of information (like address) to confirm it's the same one, and then grab the phone number from google. This would also open the opportunity for other information to be grabbed from google, such as google reviews (which it seems are more prevalent than bbb.org reviews).
