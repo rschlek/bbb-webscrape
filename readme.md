@@ -26,5 +26,3 @@ way you did
 7. Write a 3-5 sentence explanation for the following question: If you came across a website where
 there were no phone numbers on the company profiles, what alternative methods would you
 employ to find them?
-8. Email your recruiter your ranked results csv file, the crawler code you wrote to extract the data,
-and your 2 responses. The team will review your project and reach out about next steps.
