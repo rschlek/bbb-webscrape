@@ -26,3 +26,7 @@ way you did
 7. Write a 3-5 sentence explanation for the following question: If you came across a website where
 there were no phone numbers on the company profiles, what alternative methods would you
 employ to find them?
+
+
+
+### Final results in scored_results.csv
