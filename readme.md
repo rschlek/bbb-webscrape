@@ -7,6 +7,8 @@ Project to web scrape bbb.org business
 ### Main notebook: [scrape.ipynb](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
 ### Final results: [scored_results.csv](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
 
+### Project Description and Goals:
+
 1. Go to the Better Business Bureau website
 2. Locate all the listings for roofing contractors in Macon, Georgia
 3. Build a crawler in Python (use any framework/library you choose) that will extract the following
