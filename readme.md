@@ -4,8 +4,8 @@ Project to web scrape bbb.org business
 
 # Project Overview
 
-### Final results: [scored_results.csv](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
 ### Main notebook: [scrape.ipynb](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
+### Final results: [scored_results.csv](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
 
 1. Go to the Better Business Bureau website
 2. Locate all the listings for roofing contractors in Macon, Georgia
