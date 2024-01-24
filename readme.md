@@ -4,6 +4,9 @@ Project to web scrape bbb.org business
 
 # Project Overview
 
+### Final results: scored_results.csv
+### Main notebook: scrape.ipynb
+
 1. Go to the Better Business Bureau website
 2. Locate all the listings for roofing contractors in Macon, Georgia
 3. Build a crawler in Python (use any framework/library you choose) that will extract the following
@@ -26,7 +29,3 @@ way you did
 7. Write a 3-5 sentence explanation for the following question: If you came across a website where
 there were no phone numbers on the company profiles, what alternative methods would you
 employ to find them?
-
-
-
-### Final results in scored_results.csv
