@@ -7,7 +7,7 @@ Project to web scrape bbb.org business
 # Project Overview
 
 ### Main notebook: [scrape.ipynb](https://github.com/rschlek/bbb-webscrape/blob/main/scrape.ipynb)
-### Final results: [scored_results.csv](https://github.com/rschlek/bbb-webscrape/blob/main/scored_result.csv)
+### Final results: the ranked results CSV is produced by running the notebook and is not committed to this repository.
 
 ### Project Description and Goals:
 
