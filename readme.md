@@ -1,5 +1,7 @@
 Use chrome version Version 118.0.5993.89 (Official Build) (64-bit) or earlier to be compatible with driver
 
+The ChromeDriver binary is not included: download it separately to match the version of Chrome you have installed. The scrape output CSVs are not committed to this repository.
+
 Project to web scrape bbb.org business
 
 # Project Overview
